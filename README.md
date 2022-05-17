@@ -1,2 +1,5 @@
 # ZYJ-Group
-This is used to Record the learning process.
+
+
+用于记录组内人员学习过程及成果。
+
