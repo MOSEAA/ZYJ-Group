@@ -1,2 +1,2 @@
 # ZYJ-Group
-Study Record
+This is used to Record the learning process.
