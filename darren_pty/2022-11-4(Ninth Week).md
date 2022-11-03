@@ -26,3 +26,15 @@
 ## 目标检测
 ![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%877.png)
 ![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%878.png)
+
+## 图片分割
+![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%879.png)
+
+## 风格转换
+![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%8710.png)
+
+## 学习路线
+![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%8711.png)
+
+
+
