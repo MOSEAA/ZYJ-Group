@@ -34,7 +34,7 @@
 ![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%8710.png)
 
 ## 学习路线
-![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%8711.png)
+![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%8712.png)
 
 
 
