@@ -1,5 +1,7 @@
 # 本周工作
 1、规划自己的方向
+![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%8713.png)
+
 
 ## 人脸图片
 ![Alt](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/%E5%9B%BE%E7%89%871.png)
