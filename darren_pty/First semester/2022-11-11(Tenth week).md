@@ -7,5 +7,6 @@
 
 ## 2.2 配置prometheus_px4和Prometheus
 
+把博客：https://blog.csdn.net/peng_258/article/details/126961314 中的坑在无人机的板载计算机中重新走一遍
 
 
