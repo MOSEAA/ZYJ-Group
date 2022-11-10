@@ -7,6 +7,7 @@
 ![](1.jpg)<br>
 根据这个函数设计matlab仿真如下：<br><br>
 ![](2.jpg)
+[](https://markdown.com.cn/basic-syntax/links.html)
 ## 2.学习机器学习
 
 ## 3.刷题
