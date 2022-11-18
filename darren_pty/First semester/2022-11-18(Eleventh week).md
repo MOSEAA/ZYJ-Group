@@ -30,3 +30,19 @@
 
 ## 3.2 遇到问题
 ![rgb图](https://github.com/ZJUT-IoCS-MAS/darren_pty/blob/main/1-UAV_SLAM_PRJ/1-pic/10.png)
+
+
+circular_raw
+![rgb图](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/circular_raw.gif)
+
+
+circular
+![rgb图](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/circular.gif)
+
+
+
+
+
+
+
+
