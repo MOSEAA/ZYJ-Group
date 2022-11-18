@@ -33,10 +33,16 @@
 
 
 circular_raw
+
 ![rgb图](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/circular_raw.gif)
 
 
+
+
+
+
 circular
+
 ![rgb图](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/circular.gif)
 
 
