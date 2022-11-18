@@ -34,7 +34,7 @@
 ![rgb图](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/circular_raw.gif)
 链接：https://www.bilibili.com/video/BV1hG4y147ZD/?vd_source=88bceb64b89804ec0cf90b2e004bf688 
 
-## 3.1  更改后的仿真 circular
+## 3.2  更改后的仿真 circular
 
 ![rgb图](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/circular.gif)
 
@@ -43,7 +43,7 @@
 
 
 
-但是圆轨迹精度不够，有时候不能形成回环：
+## 3.3 但是圆轨迹精度不够，有时候不能形成回环
 
 未形成回环链接： https://www.bilibili.com/video/BV1EK411d7mK/?vd_source=88bceb64b89804ec0cf90b2e004bf688
 更改后形成回环链接：https://www.bilibili.com/video/BV1f44y1Q7Lx/?vd_source=88bceb64b89804ec0cf90b2e004bf688
