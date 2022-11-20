@@ -14,7 +14,7 @@ Space Applications XIV) [paper](https://drive.google.com/file/d/1GsvANy0GqKeGugN
    - Cooperative Space Object Tracking Using Space-Based Optical Sensors via Consensus-Based Filters (IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS VOL. 52, NO. 4, 2016) [paper](https://www.researchgate.net/profile/Erik-Blasch/publication/310467221_Cooperative_space_object_tracking_using_space-based_optical_sensors_via_consensus-based_filters/links/5f33ed19458515b72918a326/Cooperative-space-object-tracking-using-space-based-optical-sensors-via-consensus-based-filters.pdf) 
      - 2022/11/20 (阅读时间)
      - comments by ZYJ: 基于天基卫星的角度测量去辅助更新目标在轨的位置，主要对比了几类滤波算法，如the information-weighted consensus filter (ICF)、 the Kalman consensus filter (KCF)。实验主要搭建了三个观测场景：1、Cooperative Tracking of a GEO Object；2、 Cooperative Tracking of an Object with an EO； 3、 Cooperative Tracking of Two Close Objects。结论是多天基联合跟踪算法比单基的好，基于共识的分布式估计（the consensus-based distributed estimation）可以接近集中式估计（the centralized estimation algorithms）的性能。
-     - conclusion by ZYJ:主要集中于跟踪算法的改进，跟目前研究目的不大相关。
+     - conclusion by ZYJ:主要集中于跟踪算法的改进，跟目前研究目的不大相关，有需要状态预测再仔细读。
      - <img width="400" alt="image" src="https://user-images.githubusercontent.com/19592290/202881206-699045e8-acdb-4453-8efd-a167d515b2dd.png">  <img width="400" alt="image" src="https://user-images.githubusercontent.com/19592290/202881216-e4be7dff-c060-4993-83e6-dda226990de5.png">  <img width="400" alt="image" src="https://user-images.githubusercontent.com/19592290/202881231-54245e23-b41a-4ce5-9010-300a039db1b8.png">
      - <img width="500" alt="image" src="https://user-images.githubusercontent.com/19592290/202881030-3931d064-73ff-49c3-96ad-ac3f30b3bb09.png">
     
