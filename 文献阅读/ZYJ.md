@@ -15,6 +15,7 @@ Space Applications XIV) [paper](https://drive.google.com/file/d/1GsvANy0GqKeGugN
      - 2022/11/20 (阅读时间)
      - comments by ZYJ: 基于天基卫星的角度测量去辅助更新目标在轨的位置，主要对比了几类滤波算法，如the information-weighted consensus filter (ICF)、 the Kalman consensus filter (KCF)。实验主要搭建了三个观测场景：1、Cooperative Tracking of a GEO Object；2、 Cooperative Tracking of an Object with an EO； 3、 Cooperative Tracking of Two Close Objects。结论是多天基联合跟踪算法比单基的好，基于共识的分布式估计（the consensus-based distributed estimation）可以接近集中式估计（the centralized estimation algorithms）的性能。
      - conclusion by ZYJ:主要集中于跟踪算法的改进，跟目前研究目的不大相关。
+     -<img width="694" alt="image" src="https://user-images.githubusercontent.com/19592290/202881206-699045e8-acdb-4453-8efd-a167d515b2dd.png">
      ![image](https://user-images.githubusercontent.com/19592290/202881206-699045e8-acdb-4453-8efd-a167d515b2dd.png)
      ![image](https://user-images.githubusercontent.com/19592290/202881216-e4be7dff-c060-4993-83e6-dda226990de5.png)
      ![image](https://user-images.githubusercontent.com/19592290/202881231-54245e23-b41a-4ce5-9010-300a039db1b8.png)
