@@ -32,11 +32,13 @@
 ## 3.1 未处理之前的仿真 circular_raw 
 
 ![rgb图](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/circular_raw.gif)
+
 链接：https://www.bilibili.com/video/BV1hG4y147ZD/?vd_source=88bceb64b89804ec0cf90b2e004bf688 
 
 ## 3.2  更改后的仿真 circular
 
 ![rgb图](https://github.com/MOSEAA/ZYJ-Group/blob/main/darren_pty/pic(Ninth%20week)/circular.gif)
+
 
 链接：https://www.bilibili.com/video/BV1ae4y1p76z/?vd_source=88bceb64b89804ec0cf90b2e004bf688 
 
